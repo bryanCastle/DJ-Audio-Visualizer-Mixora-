@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Helvetiker';
+  src: url('../public/fonts/helvetiker_regular.typeface.json');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Jacquard12';
+  src: url('../public/fonts/Jacquard12-Regular.json');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
