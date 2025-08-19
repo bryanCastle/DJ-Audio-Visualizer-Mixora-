@@ -4,6 +4,10 @@ A comprehensive, professional-grade audio visualizer built with React, Next.js, 
 
 ## 🎵 Features
 
+
+https://github.com/user-attachments/assets/d4c0491f-54a7-455d-aefb-a6a4f1b78366
+
+
 ### 🎨 Visualization Effects
 - **Bars Effect** - Vertical frequency bars that respond to music
 - **Wave Effect** - Dynamic waveform visualization
@@ -116,7 +120,7 @@ A comprehensive, professional-grade audio visualizer built with React, Next.js, 
 3. Manual search available through Genius API
 4. Multiple lyrics providers ensure availability
 
-## 🔧 Configuration
+##  Configuration
 
 ### Effect Settings
 Each effect has customizable parameters:
